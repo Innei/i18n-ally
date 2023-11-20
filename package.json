@@ -1,6 +1,6 @@
 {
-  "publisher": "lokalise",
-  "name": "i18n-ally",
+  "publisher": "innei",
+  "name": "i18n-ally-fork",
   "version": "2.12.0",
   "displayName": "i18n Ally",
   "description": "🌍 All in one i18n extension for VS Code",
